@@ -1,0 +1,53 @@
+<!DOCTYPE>: Specifies the document type and version of HTML.
+<html></html> The root element of an HTML document.
+<head></head> Contains metadata and links to external resources.
+<title></title> Specifies the title of the document (appears in the browser tab).
+<body></body> Contains the main content of the HTML document.
+<h1></h1>: <h1> as the largest
+<p></p> Defines a paragraph.
+<br>: Inserts a line break.
+<hr>: Inserts a horizontal line (thematic break).
+<b></b> Makes text bold.
+<strong></strong> Indicates strong importance; usually bolded by default.
+<i></i> Makes text italic.
+<em></em> Indicates emphasized text; usually italicized by default.
+<u></u> Underlines text.
+<mark></mark> Highlights text.
+<small>: Displays text in a smaller font size.
+<sup>: Displays superscript text.
+<sub>: Displays subscript text.
+<blockquote>: Defines a section that is quoted from another source.
+<q>: Defines a short inline quotation.
+<code>: Displays code snippets in a monospace font.
+<pre>: Preformatted text; preserves whitespace and line breaks.
+<abbr>: Represents an abbreviation or acronym, often with a tooltip.
+<cite>: Indicates a citation or reference.
+<del>: Represents deleted text (strikethrough).
+<ins>: Represents inserted text (underlined).
+<a>: Creates a hyperlink.
+<img>: Embeds an image.
+<audio>: Embeds audio content.
+<video>: Embeds video content.
+<source>: Defines multiple media resources for <audio> or <video>.
+<track>: Specifies text tracks (e.g., subtitles) for <video> or <audio>.
+<iframe>: Embeds another HTML page.
+
+<ul>: Creates an unordered list.
+<ol>: Creates an ordered list.
+<li>: Defines a list item.
+<dl>: Creates a description list.
+<dt>: Defines a term in a description list.
+<dd>: Defines a description for the term.
+
+<table>: Defines a table.
+<tr>: Defines a row in a table.
+<td>: Defines a cell in a table.
+<th>: Defines a header cell in a table.
+<caption>: Provides a caption for a table.
+<colgroup>: Groups columns in a table for styling.
+<col>: Specifies column properties.
+
+<form>: Creates an HTML form for user input.
+<input>: Defines an input field.
+<textarea>: Defines a multiline text input.
+<button>: De
